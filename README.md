@@ -14,7 +14,7 @@ Staff Software Engineer with 13+ years of experience building frontend, mobile, 
 
 Most of my work sits between product engineering and technical leadership: React, React Native, TypeScript, GraphQL, frontend architecture, design systems, performance, automated testing, observability, and cloud platforms. I have improved user satisfaction from 3.5 to 4.4, increased frontend delivery efficiency by 40%, helped scale financial platforms to millions of users, and built products used by support, banking, crypto, retail, and legal teams.
 
-I also maintain open-source projects in the React and React Native ecosystem, currently serving over 70k weekly downloads.
+I also maintain open-source projects in the React and React Native ecosystem, currently serving over 100k weekly downloads.
 
 ## Professional Experience
 
