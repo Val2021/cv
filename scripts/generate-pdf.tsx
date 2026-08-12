@@ -14,7 +14,7 @@ const projectRoot = resolve(__dirname, "..");
 async function main() {
   const readmePath = join(projectRoot, "README.md");
   const outDir = join(projectRoot, "dist");
-  const outPath = join(outDir, "EduardoBorgesResume.pdf");
+  const outPath = join(outDir, "ValAraujoBarbosaResume.pdf");
 
   const md = await readFile(readmePath, "utf8");
   const markdownHtml = await marked.parse(md, { gfm: true });
