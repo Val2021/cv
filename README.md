@@ -6,6 +6,7 @@ Rio de Janeiro, Brazil
 [LinkedIn](https://www.linkedin.com/in/val-araujo-barbosa/) | [GitHub](https://github.com/Val2021)
 
 
+
 ## Professional Summary
 
 Software Engineer with 5+ years of experience in Python development, backend systems, APIs, automation, and cloud-based solutions. I started my software engineering career by building a Python web application from scratch using Django and MongoDB, and later expanded my experience into microservices, REST API integrations, endpoint testing, and cloud functions.
@@ -14,7 +15,7 @@ A key part of my recent work has been enterprise automation. For a large financi
 
 ## Professional Experience
 
-### Software Developer
+### Mid-Level Software Developer
 
 **ITS Soluções**
 **December 2024 - July 2026**
@@ -25,7 +26,7 @@ A key part of my recent work has been enterprise automation. For a large financi
 - Integrated enterprise systems and service management platforms through REST APIs and developed SQL Server routines to support data processing and automation workflows.
 - Implemented logging, monitoring, error handling, and recovery mechanisms for production automations.
 
-### Software Developer
+### Mid-Level Software Developer
 
 **CWI Software**
 **June 2022 - August 2024**
@@ -47,7 +48,7 @@ A key part of my recent work has been enterprise automation. For a large financi
 - Applied Clean Architecture principles to improve code organization, maintainability, and scalability.
 - Implemented unit and integration tests using pytest and supported automated delivery workflows with GitHub Actions.
 
-### Python Developer
+### Junior Python Developer
 
 **Tectia Information Technology and Services**
 **September 2020 - February 2022**
